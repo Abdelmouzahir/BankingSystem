@@ -1,4 +1,4 @@
-his project includes:
+This project includes:
 
     Account creation, modification, and display
     Transaction handling: deposit and withdrawal
